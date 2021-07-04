@@ -165,7 +165,7 @@ ol {
 	text-align: center;
 	padding: 20px 10px 15px;
 	position: relative;
-	background-color: #fff;
+	background-color: #ffdf00;
 	margin-right: 10px;
 	border: 2px solid #40424a;
 	color: #171717;
@@ -173,7 +173,7 @@ ol {
 }
 
 .site-btn:hover {
-	color: #40424a;
+	color: #21259;
 }
 
 .circle-progress {
@@ -575,7 +575,7 @@ ol {
 .single-review h3 {
 	font-size: 24px;
 	margin-bottom: 10px;
-	color: #e1b74d;
+	color: #ffdf00;
 }
 
 .single-review h4 {
