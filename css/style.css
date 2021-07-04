@@ -24,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #ededed;
+	color: #f0dba6;
 	margin: 0;
 	font-weight: 600;
 	font-family: 'Josefin Sans', sans-serif;
@@ -457,7 +457,7 @@ ol {
 }
 
 .social-section .social-links a {
-	color: #ededed;
+	color: #f0dba6;
 	font-size: 36px;
 	margin-right: 40px;
 }
@@ -917,7 +917,7 @@ ol {
 -----------------------*/
 .home-four-style .site-logo h2 a,
 .home-four-style .site-logo p {
-	color: #ededed;
+	color: #f0dba6;
 }
 
 .home-four-style .main-left-area {
