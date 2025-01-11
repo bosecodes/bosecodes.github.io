@@ -1,0 +1,33 @@
+nav {
+  background: #101010;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between; /* Separates left and right sections */
+  align-items: center; /* Vertically aligns the items */
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem; /* Adds spacing between links */
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+a:hover {
+  color: yellow; /* Change the text color to yellow on hover */
+}
+
+.nav-right {
+  /* Ensure alignment for the right section */
+}

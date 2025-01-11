@@ -1,0 +1,27 @@
+.writing {
+    padding: 2rem;
+    color: #fff;
+    background: #101010;
+  }
+  
+  .writing ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .writing li {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .writing a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  .writing a:hover {
+    text-decoration: none;
+    color: yellow;
+  }
+  
